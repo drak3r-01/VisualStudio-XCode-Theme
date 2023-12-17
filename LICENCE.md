@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2023-2024 Drak3r-01
+Copyright (c) 2023-2024 Drak3r-01<br>
 Original Copyright (c) 2021-2022 Mateo Cerquetella
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
